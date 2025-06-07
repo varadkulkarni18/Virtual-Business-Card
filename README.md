@@ -8,6 +8,6 @@ Please feel free to alter and customize the content as necessary.
 
 1. Click the green "Code" button above.
 2. Select "Download ZIP" and extract the files.
-3. Open `index.html` in a web browser — the CSS will load correctly.
+3. Open `business_card.html` in a web browser — the CSS will load correctly.
 
  Do not use the "Raw" download button for just the HTML file, or styles may not load.
